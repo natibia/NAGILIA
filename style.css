@@ -1,6 +1,6 @@
 :root {
     --cor-de-fundo: #ec000088;
-    --texto: #ffffff;
+    --texto: #ffffff; /*cor do texto do site*/
 }
 
 body {
@@ -8,3 +8,4 @@ body {
     color: var(--texto);
 
 }
+/* yes */
