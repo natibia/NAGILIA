@@ -1,8 +1,10 @@
-:root{
+:root {
     --cor-de-fundo: #ec000088;
-   --texto:  #ffffff;
-body{
+    --texto: #ffffff;
+}
+
+body {
     background-color: var(--cor-de-fundo);
     color: var(--texto);
-    
+
 }
