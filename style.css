@@ -18,3 +18,7 @@ header
 .intro {
     display:flex ;
 }
+
+.pic {
+    width: 20%;
+}
