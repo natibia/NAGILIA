@@ -1,6 +1,6 @@
 :root {
-    --cor-de-fundo: #ec000088;
-    --texto: #ffffff; /*cor do texto do site*/
+    --cor-de-fundo: #ffffff;
+    --texto: #000000; /*cor do texto do site*/
 }
 
 body {
