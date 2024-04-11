@@ -28,3 +28,7 @@ header
     grid-template-columns: 33% 33% 33%;
 
 }
+
+.foto-equipe {
+    width: 40%;
+}
