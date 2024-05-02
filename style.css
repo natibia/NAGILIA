@@ -9,6 +9,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--texto);
     font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
 }
