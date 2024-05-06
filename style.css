@@ -19,6 +19,12 @@ header {
     justify-content: space-between;
 }
 
+.cab{
+    display: flex;
+    justify-content: space-between;
+}
+
+
 .img-intro {
     width: 20%;
 }
