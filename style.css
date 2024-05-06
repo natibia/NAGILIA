@@ -15,13 +15,17 @@ body {
 }
 /* yes */
 header {
-    display: flex;
+    display: grid;
     justify-content: space-between;
+    align-items: center;
+    grid-template-columns: 90% 10%;
+
 }
 
 .cab{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 
@@ -31,10 +35,6 @@ header {
 
 .intro {
     display:flex ;
-}
-
-.pic {
-    width: 8%;
 }
 
 #equipe {
@@ -51,5 +51,6 @@ header {
 header a {
     color:#000000;
     text-decoration: none;
+    margin-right: 59px;
 } 
 
